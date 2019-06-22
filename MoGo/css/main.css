@@ -53,7 +53,7 @@ hr {
     min-height: 820px;
     position: relative;
 
-    background: url("/img/banner.jpg") center no-repeat;
+    background: url("img/banner.jpg") center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -369,7 +369,7 @@ hr {
 }
 .section--devices{
     padding-bottom: 0;
-    background: url(/img/devicesbg.jpg) center no-repeat;
+    background: url(img/devicesbg.jpg) center no-repeat;
     background-size: cover;
     
 }
